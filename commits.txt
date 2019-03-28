@@ -1,0 +1,940 @@
+commit d9aa5979360829dfc0c93d41ab03ac46ebcab744
+Author: Rommel Montoya <rommelmontoya97@gmail.com>
+Date:   Sat Jan 26 20:17:57 2019 -0400
+
+    Se le agrego una parte del crud de actividades
+
+commit 9c838039171213a08dad4c23584b2afe61b349b3
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Tue Dec 4 11:00:39 2018 -0400
+
+    Modificacion el vista de usuario y instructores
+
+commit 051fb857979ab699a7a5cbbc1f72b969579da836
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Nov 12 00:37:34 2018 -0400
+
+    Modificaciones en las vistas
+
+commit 935875e2104066940e1cbf89cde2181e45dc0692
+Merge: a20a855 563c66f
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Wed Nov 7 00:31:25 2018 -0400
+
+    terminos y condiciones
+
+commit 563c66f7ea575904b49ec7f94543fb2d8a2cd551
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Wed Nov 7 00:21:39 2018 -0400
+
+    push arreglo del buscador
+
+commit a20a855661ba49b9a81f02a0fad637a49db9d789
+Merge: 6a4fc8d 818dba8
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Wed Nov 7 00:12:30 2018 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 6a4fc8da15ffc1a62a3966c540c54fe965b75192
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Wed Nov 7 00:08:09 2018 -0400
+
+    terminos y condiciones, pantalla de modificar fot
+
+commit 86b5a174ad838cf65bb408fc788ce4b0bbdeda3c
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Wed Nov 7 00:04:09 2018 -0400
+
+    terminos y condiciones, pantalla de modificar fo
+
+commit 9e5daf4b73fe71f41ca5ff7157f445fc04f75cf6
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Tue Nov 6 23:58:54 2018 -0400
+
+    terminos y condiciones, pantalla de modificar foto
+
+commit 818dba8ecb26e9c2dce4c1d8e40473226b098f47
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Tue Nov 6 22:13:47 2018 -0400
+
+    version
+
+commit 09b6758efcb0553896bcc409071833ab61b295e7
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Tue Nov 6 22:04:54 2018 -0400
+
+    manual de usuario
+
+commit 5d6e331189859af636bb5dd41c1a054c53e54d59
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Tue Nov 6 21:50:06 2018 -0400
+
+    version del buscadr estable
+
+commit f08c4ec6787d8c4cf6485587e08c8eba9cce55fa
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Tue Nov 6 10:15:58 2018 -0400
+
+    pdf de planes modificado y vista de backpt
+
+commit 3fdf683c9944f4a9f04ad5e195447f15c99a65bf
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Tue Nov 6 04:08:07 2018 -0400
+
+    backup
+
+commit fb7a1bb0a7fd3cd76f2033590c43c44fa8c63642
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Tue Nov 6 02:11:49 2018 -0400
+
+    version estable Version BD 1
+
+commit 197280085fe53f42cb9fd4e15acee2cd49dddc8b
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Nov 4 14:46:23 2018 -0400
+
+    factura y hoja de exel de mantenimiento
+
+commit db41b46ded46b532c5dacdc0574488e3fab2bf85
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Sat Nov 3 20:05:25 2018 -0400
+
+    arreglos
+
+commit f2f5ab0fc97a789eb888dc4651c7e8f7fbff17cc
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Thu Nov 1 11:00:41 2018 -0400
+
+    agregar datos de instructor en el editar
+
+commit 30b9390b92aa3b8918b76d95c9c5958ff3a0f154
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Tue Oct 23 10:54:54 2018 -0400
+
+    papelera de personas y buscar por nombre cedula y id
+
+commit 180eeb6de357610ad4f44e7a23eedf758a0a79b7
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Oct 14 13:25:34 2018 -0400
+
+    modificacion de pdf
+
+commit 1466631f19df433d7cef153c8c573bce6319c489
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Fri Oct 12 11:52:42 2018 -0400
+
+    modificar y eliminar en mantenimiento
+
+commit de256023ecda687d4f1ac606c3299bf766463047
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Thu Sep 20 23:14:22 2018 -0400
+
+    Modificaciones en el modulo de registrar personas /campos nuevos *enfermedad*observacion*telefonoFamiliar
+
+commit 2279e085f9518080ab4cabe8dfe1c68ae8d12d1d
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Sep 16 13:24:46 2018 -0400
+
+    modificaciones en modulo de mantenimiento
+
+commit d359d292422ca087f85c74926cb27528287134ea
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sat Sep 15 00:45:33 2018 -0400
+
+    pdf factura 2.0
+
+commit 06c2faab3ee27a893bd2a4ddef12f3bdc21af7fd
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sat Sep 15 00:33:05 2018 -0400
+
+    pdf factura 2
+
+commit 14d9ecee471a42cb306fc69fa8c87cf1c45c389f
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Sat Sep 15 00:17:43 2018 -0400
+
+    version
+
+commit 85d98a7669d776c890cd9d464e6faeff9212021a
+Merge: 15dd14e 3602aa0
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Fri Sep 14 23:59:38 2018 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 15dd14e51b02eb6aabf30b80cb95be423a96d848
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Fri Sep 14 23:59:32 2018 -0400
+
+    commit
+
+commit 0e681bb671cb8c10fa0c48297b15b50af5b51720
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Fri Sep 14 23:58:58 2018 -0400
+
+    version
+
+commit 3602aa01c29af232db4caddd959ac9c44c9045d2
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Fri Sep 14 23:56:59 2018 -0400
+
+    pdf factura
+
+commit e382c3c0d72c547ff53fa40c19ff06bee76cdfb5
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Fri Sep 14 22:20:16 2018 -0400
+
+    version
+
+commit f742da1c6acdefe62ebc14a8d3e28bae3f716b4b
+Merge: c6921a3 fb8ff35
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Fri Sep 14 22:18:39 2018 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit c6921a3bd8b7468328732c4e15439a9a0fea11ca
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Fri Sep 14 22:17:51 2018 -0400
+
+    Version
+
+commit fb8ff35442b16034648e5f090111f033b0173db5
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Thu Sep 13 10:04:24 2018 -0400
+
+    nuevos mensajes y boton de la camara nuevo
+
+commit 9ddbcbbde7891247e5a913a5fadcb19ce9279542
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Wed Sep 12 15:43:42 2018 -0400
+
+    version
+
+commit e643c15f585744d3c73b88834f9ba14c3d889369
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Wed Sep 12 14:43:05 2018 -0400
+
+    version
+
+commit c30517b53fa90dfbb5edfd8a85f9fe576a7e7c59
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Wed Sep 12 14:39:22 2018 -0400
+
+    version
+
+commit 51c6e4534ccf4ef13e89f7335edfcb7852821fb7
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Wed Sep 12 14:13:47 2018 -0400
+
+    version
+
+commit 529fc2dc83f3aef34f05b977ece25ae12e7a0ef5
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Wed Sep 12 09:56:55 2018 -0400
+
+    modal correo
+
+commit 54152aaedf6a0d63af53eb705aa7cae9d02ae2ce
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Wed Sep 12 09:18:30 2018 -0400
+
+    datos de prueba en la bd
+
+commit 821ed2d0392aa1f2ef37d4f3800dea8c6aeef6ec
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Wed Sep 12 07:25:11 2018 -0400
+
+    V12092018
+
+commit 99de70f76309f04b7e24430dcb5a07a5ebef44eb
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Wed Sep 12 07:20:19 2018 -0400
+
+    V12092018
+
+commit e0d8adf5d477cfd23d817e825a364e08deb976a4
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Wed Sep 12 06:34:44 2018 -0400
+
+    V12092018
+
+commit 79490c61d19dae88e64c53f25bc3744715b120f6
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Sun Sep 2 00:10:52 2018 -0400
+
+    arreglando observaciones
+
+commit c708e1143bd8aedb6022ce1baca9f74399212ee3
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Aug 12 18:21:20 2018 -0400
+
+    pdf de usuario
+
+commit 1fc525f25f79bfbe64ef13c5b30dcb8f7c14b816
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Sat Aug 11 18:37:28 2018 -0400
+
+    API agregada a registrar afiliado
+
+commit 4bc6a174b3b5c6c11501b809de89e88374b82b84
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Tue Aug 7 07:45:58 2018 -0400
+
+    contraseña modificada de usuario, pdf de asistencia y correo de contraseña
+
+commit 29a469074a3b2c1346e369a8da1890e2dc8d8a1e
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Aug 5 15:30:27 2018 -0400
+
+    version
+
+commit 14d75d14ea9ba97eaf555d332effdd2e0aee72fa
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Aug 5 15:15:11 2018 -0400
+
+    version
+
+commit 094df7d819f11a156316bd247c371a4996cd0b67
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jul 15 09:00:45 2018 -0400
+
+    nuevo campo primer inicion
+
+commit b509ff6ef90202aecac03b86b5e6412642ec575a
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jul 15 08:52:47 2018 -0400
+
+    nuevo campo primer inicion en la tabla usuarios y envio de correo de recuperar contraseña
+
+commit 0895cce3dd357960cc09201519b5e2ab9dfd093d
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jul 9 22:58:07 2018 -0400
+
+    agregando reportes pdff
+
+commit 7d317e2e8768dc754fbac5df0ebd228f9160caa6
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jul 9 22:50:02 2018 -0400
+
+    agregando reportes pdf
+
+commit 4dce76a709fbe1d5e0727b6a0c4353c6d47c03ef
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jul 9 10:28:39 2018 -0400
+
+    mejoras en la vistas
+
+commit f965dadc9e6b84c43e6d4fd5fddf11e0e8d40af1
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jul 8 23:36:16 2018 -0400
+
+    reparaciones
+
+commit 315e0aef5fe2a3f5f2f2f33a9bbbe41475c54fed
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jul 8 23:20:51 2018 -0400
+
+    reparaciones
+
+commit d2c21d0822d2a1e3b422e1bdbc6ead2630f486c0
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jul 8 22:21:56 2018 -0400
+
+    reparaciones
+
+commit 41a9eee9435a9c1a1c96bf4bab681c758b2c7d37
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jul 8 21:41:30 2018 -0400
+
+    reparaciones
+
+commit 87cbc3c1ac7f87f40b142c233471209046902d35
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jul 8 13:49:07 2018 -0400
+
+    Modifinaciones en el home
+
+commit d821c71e9bab768e8e40396aae99590b6dc4d6f3
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jul 8 02:39:15 2018 -0400
+
+    asistencia notificacion
+
+commit 9d1505e2954f3b9dc51954968ac9b2212be5ab0a
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Fri Jul 6 10:09:42 2018 -0400
+
+    Cobro Afiliado
+
+commit a13f5c8df7063be7cc678e66866f658b62b858d5
+Author: Carlos Bolivar <carlos_ebb@outlook.com>
+Date:   Fri Jul 6 07:00:13 2018 -0400
+
+    dia martes
+
+commit c9a2f081758e60c845c06b3cf541822c606c7e13
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jul 2 22:16:02 2018 -0400
+
+    consultar movimientos error
+
+commit e7126ded183c27a5b1f466db822782873b86b482
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jul 1 23:40:52 2018 -0400
+
+    pantalla de asistencia
+
+commit b1a40a08ac8bcb6aa3af261c88ef4aaae301a909
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jul 1 16:54:27 2018 -0400
+
+    asistencia
+
+commit 745b19899a0cdc87ea1bde608a1ed7e94a745e39
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sat Jun 30 22:52:26 2018 -0400
+
+    pantalla de asistencia
+
+commit 6fd0144e909287506918f1db3d5a4df7b1cd0e90
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sat Jun 30 18:32:32 2018 -0400
+
+    modulo mantenimiento
+
+commit 2e4047a31ceb58912cf4fb9414a8b9db81c51d29
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sat Jun 30 12:17:39 2018 -0400
+
+    pdf de afiliados
+
+commit a941a8eb14206824c7b3144fd947b0f2e0cbb74c
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Tue Jun 26 00:39:38 2018 -0400
+
+    no guarda la modificacion,mostrar doc en editar,mostrar info de doc en pdf
+
+commit 6abc21739ee49793997150ae0a1286a728dce99e
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Mon Jun 25 22:00:19 2018 -0400
+
+    instructor
+
+commit 054384ab3658d850f953760bc241691011892350
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jun 25 21:37:51 2018 -0400
+
+    error en consulta de instructores
+
+commit 6352f69a1e3224943de9744c6fe9baa47df61de5
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jun 25 11:32:29 2018 -0400
+
+    foto del carnet
+
+commit e2d0eeb19b077be7abbafd2b2a1a1cd2575a22df
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jun 24 22:55:04 2018 -0400
+
+    consultar instructor con documentos
+
+commit b906fa8ace6e1a02993a0849d0dfc02437b05925
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 24 18:10:25 2018 -0400
+
+    git
+
+commit e491ee4d00c52189b38afd8df529bb64cba696d7
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 24 17:52:21 2018 -0400
+
+    git ignore
+
+commit 5c5f873d626b8d5a6d6e792404ab787b5f6fd7e3
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 24 16:56:17 2018 -0400
+
+    git ignore
+
+commit ea00375702ed673b650708ec0263c5017a5fd4dd
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 24 16:55:19 2018 -0400
+
+    git ignore
+
+commit ec752572b98fe40fafddce1950520b16700ab507
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 24 16:53:02 2018 -0400
+
+    Foto arreglada afiliados
+
+commit 8c64291fdda9c75cddad0d4cd554cff729351ca8
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 24 16:32:26 2018 -0400
+
+    Buscar instructores y subir documentos
+
+commit d8e79e5ccbbd50737c156c298fa73379a305aa24
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jun 24 15:35:10 2018 -0400
+
+    registrar instructor con documentos2
+
+commit 057ac4420183b9f991a6fc9bb063be3948e9fd89
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jun 24 10:59:26 2018 -0400
+
+    registrar instructor con documentos
+
+commit 2fca627a590e6ba759e7b9146085653766523e16
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Thu Jun 21 11:03:11 2018 -0400
+
+    registrar instructor
+
+commit 224d0aa72c83d5566be2daf27229a4fea72cb77d
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jun 18 21:14:02 2018 -0400
+
+    buscar afiliado prueba2
+
+commit 2b58c4d738015a1a70358117aaf3993fee6de7cc
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jun 18 21:12:38 2018 -0400
+
+    buscar afiliado
+
+commit 96ae69f100a5e804be21614f871e333375db57c7
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jun 18 00:03:06 2018 -0400
+
+    buscar afiliados
+
+commit 861f14deb3416affec4776f9e2044997d47b4645
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jun 17 17:51:01 2018 -0400
+
+    planes correo modificado
+
+commit f7257595eddfc7a58ee26a78528628daa47ec38b
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jun 17 17:49:26 2018 -0400
+
+    planes correo
+
+commit 64b794611c55aac16a858bb9c2578579e0f099ce
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 17 16:29:18 2018 -0400
+
+    revisar planess
+
+commit d6fc4acc0ec848e341b8d68413848783f5159e9c
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 17 15:34:04 2018 -0400
+
+    revisar planes
+
+commit c1c0c45585733afd5e767cceb51ad299fc906f29
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 17 15:02:26 2018 -0400
+
+    revisar planes
+
+commit 9c971dbdcb6d16bca845c9021aba8ce111b3baa1
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jun 17 14:14:44 2018 -0400
+
+    datos .env
+
+commit 7a16b887aeef6f41c2d41870e786b61a02fd4b68
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jun 17 14:08:04 2018 -0400
+
+    envio de correo
+
+commit f9e7a7c277ddf5571c94d3d41408b317a7cd28ed
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sat Jun 16 17:38:08 2018 -0400
+
+    carnet de afiliado
+
+commit 8880807a71f517dc820af8f3b93109dd58a1df27
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sat Jun 16 12:57:47 2018 -0400
+
+    edad en modulo de planes
+
+commit d0d6f73fd985eb7754e6e94cf4669b7a09277aef
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sat Jun 16 11:58:04 2018 -0400
+
+    foto2
+
+commit 6a17b0008b66a65da984c61bc2f059053b9a60d1
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sat Jun 16 11:34:40 2018 -0400
+
+    foto
+
+commit b23c208fa3cd9909388f2d7372aa60c36757bfd1
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sat Jun 16 09:27:30 2018 -0400
+
+    instructores
+
+commit daa3903a0c0e5b21fc32b56bae36af6996092bc8
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sat Jun 16 06:57:52 2018 -0400
+
+    archivo de validaciones
+
+commit 2effc0c8bbe4594767ca23fb15fab8263f6bb2f2
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Tue Jun 12 20:12:30 2018 -0400
+
+    universidad
+
+commit ff2ee09b5187381663a8cf86dbf2a67d9407bcba
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Tue Jun 12 02:07:08 2018 -0400
+
+    respaldo
+
+commit a2cb5032c208c67f0f5f6c81860613e4a5a60941
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Tue Jun 12 02:03:23 2018 -0400
+
+    pdf de planes y afiliados
+
+commit 34b44cee0a8985d5fa57b3d62525a14424dd9527
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Tue Jun 12 00:45:15 2018 -0400
+
+    planes actualizar a medio hacer
+
+commit 5278bd18e8c991c50e150dc05cc41cd998f2b2e6
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Tue Jun 12 00:37:35 2018 -0400
+
+    validaciones de afiliados
+
+commit dd484f0cd42efce1958b35277871cfa7f805a0b4
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Tue Jun 12 00:25:48 2018 -0400
+
+    planes actualizar a medio hacer
+
+commit 3fd85f26e2f30060b1735e402d6ddbea24164bbe
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Tue Jun 12 00:23:54 2018 -0400
+
+    planes actualizar a medio hacer
+
+commit 27b4c20a49f6fc3f14596fa3e4c7ce0918e23879
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Tue Jun 12 00:03:11 2018 -0400
+
+    planes actualizar a medio hacer
+
+commit 0afc30e792b858137a2ea0ac0173fb6c489854bc
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Mon Jun 11 22:19:21 2018 -0400
+
+    planes actualizar a medio hacer
+
+commit fed3fe85b535477e48478bd6323aa50272d93f47
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jun 11 21:48:42 2018 -0400
+
+    dias de planes
+
+commit 98831d0fc8df625c75c8db7e4b086f002b416266
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Mon Jun 11 21:23:33 2018 -0400
+
+    planes actualizar a medio hacer
+
+commit 31620353a5ba537c858eebe54cf5143e70f33aa9
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Mon Jun 11 20:56:10 2018 -0400
+
+    planes actualizar a medio hacer
+
+commit 0c55d839c096fc9fd1bd0083d8e5409700c791b6
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jun 11 20:30:11 2018 -0400
+
+    crear actividad modificado en el modal
+
+commit 719af986043d8c707cace1d42006903523f0c8df
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Mon Jun 11 20:24:15 2018 -0400
+
+    planes actualizar a medio hacer
+
+commit 6027208da9e3e3eb2eafec00ea50714dcd850032
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jun 11 20:11:04 2018 -0400
+
+    modal de editar planes organisado
+
+commit cbe35b30280e9554577240e1cfe925545f13f7e8
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Mon Jun 11 17:42:04 2018 -0400
+
+    planes actualizar a medio hacer
+
+commit 3b722cd043c6b8ef261a6f5abc93f51bd11dd5c5
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jun 11 16:45:18 2018 -0400
+
+    error en modulo de planes
+
+commit 2334bf0d07e6ef4318594b7f634fdfd436024990
+Merge: 8dccd7e 8aeac4e
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Mon Jun 11 15:34:06 2018 -0400
+
+    planes
+
+commit 8aeac4ef825bde21d7bafad63325af39e10ace87
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jun 11 15:33:26 2018 -0400
+
+    validaciones afiliados
+
+commit 8dccd7e7a59feabf0cf5691b82825d434dd36227
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Mon Jun 11 15:32:11 2018 -0400
+
+    crear planes
+
+commit ec5a0df74d9b5d663bffcc934a26bb4218cd7996
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jun 11 15:00:53 2018 -0400
+
+    afiliados modal eliminar
+
+commit 2100de6dfdd79ac152c0c9eb96721da0fc8b7a9d
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Mon Jun 11 14:59:55 2018 -0400
+
+    modal de eliminar
+
+commit de62ba3a77d92abdd59ee6ae3dd679e6113eb699
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 10 22:53:48 2018 -0400
+
+    planes no funciona actualizar
+
+commit 3897cadfec911311e9e39b7a59646eab3535ab2d
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 10 17:07:46 2018 -0400
+
+    usuarios
+
+commit a738151e93efb93d5fb31ca21925c22ef2eb9a9d
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jun 10 16:59:35 2018 -0400
+
+    vista de afiliados modificada
+
+commit a361bad79714ec8b7cfed6f3ff112387d2ca09e3
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jun 10 16:40:51 2018 -0400
+
+    vista de afiliados y modal de editar plan modificado
+
+commit d8654647187d3d6de0d2a4b5b5783210ec2265b0
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 10 16:27:47 2018 -0400
+
+    usuarios
+
+commit d2f6a14c2ae4ea8e68f49b3370ef6943352601db
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 10 16:11:17 2018 -0400
+
+    planes actualizar
+
+commit 162dd819e6083b471fed431f6f8bbe9e7f36141a
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 10 15:25:44 2018 -0400
+
+    planes suma1
+
+commit e3d2d0a89f5370953534a8433a14fa3435e74991
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jun 10 14:57:31 2018 -0400
+
+    controlador de persona
+
+commit 916e6c1cb1d8f3549addeac5205518ad8f0be171
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jun 10 14:56:47 2018 -0400
+
+    vista de afiliados
+
+commit f0ed17ad3b996e3329722c4003c9056881453b5d
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 10 14:15:43 2018 -0400
+
+    planes suma
+
+commit f80b34d960d0770dfbc27b9389cf1ba2bbdcad50
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sun Jun 10 12:31:56 2018 -0400
+
+    vista de planes
+
+commit 51cf5840b9f824d8fa31ff40d91a9e1ecbedf5dc
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 10 01:39:38 2018 -0400
+
+    agregando cambio de contraseña
+
+commit 0851946e81db0a1b7571312a4d2b3763c31e6c52
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sun Jun 10 00:27:11 2018 -0400
+
+    validaciones Usuarios7
+
+commit 5e17820ef46cc0fe5746b0d06e71e8fedd5b51b0
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sat Jun 9 23:57:24 2018 -0400
+
+    vista de config2
+
+commit f0d5842c06d998d58f4fd47d8a9a5aa5fbbc17da
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sat Jun 9 23:50:51 2018 -0400
+
+    vista de config
+
+commit 723314740d01f7562bd790a8b965f0def5c27291
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sat Jun 9 23:39:16 2018 -0400
+
+    validaciones Usuarios6
+
+commit 74c1a9ef40edfe5ed97d1d752d1c6e452f6b3220
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sat Jun 9 23:29:17 2018 -0400
+
+    validaciones Usuarios5
+
+commit 0e4a2bf689ae63b6d4193a0a23f33be855e4f875
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sat Jun 9 23:20:21 2018 -0400
+
+    botons modificados2
+
+commit a8146f94eb52db0fb54780e5e8c637958ab1fbdd
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sat Jun 9 23:09:57 2018 -0400
+
+    validacion sexo
+
+commit 552dd45e6a935842b2755a4cdc1f78897c2de326
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sat Jun 9 22:46:53 2018 -0400
+
+    validaciones Usuarios5
+
+commit 2c6980887efa477112fce68fcac00cba080fb1bb
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sat Jun 9 19:55:35 2018 -0400
+
+    botons modificados1
+
+commit f3773b34f1f559a2ca2f646e2e1c177e2568397d
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sat Jun 9 18:41:40 2018 -0400
+
+    alert de eliminar
+
+commit 74cc042c1be1b494f7a30af7ccab7912834e9066
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Sat Jun 9 17:24:28 2018 -0400
+
+    botons modificados
+
+commit 4115188a80da437010b37e3cb8b594f9d8fa0562
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sat Jun 9 15:29:55 2018 -0400
+
+    validaciones Usuarios2
+
+commit 9aee6a44a9d6294e83615cfbbb24810c67eb538b
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sat Jun 9 13:56:30 2018 -0400
+
+    validaciones Usuarios2
+
+commit 382c00b3621b8fa3b53215d51059a9d64973fdfa
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sat Jun 9 13:52:44 2018 -0400
+
+    validaciones Usuarios2
+
+commit 95e602e0419d38c16bafc369280c897990f436ec
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sat Jun 9 13:45:27 2018 -0400
+
+    validaciones Usuarios1
+
+commit 2d7715ed3dc363e09e9a8447ebee1b9f060d10ee
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sat Jun 9 12:43:37 2018 -0400
+
+    validaciones Usuarios
+
+commit 6e8b47727086b85fdbfa2ac7a3bd22087fa71356
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sat Jun 9 00:35:16 2018 -0400
+
+    fix modal2
+
+commit 960d6d775ea59e60269bb76b6d976f332cec2759
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sat Jun 9 00:16:24 2018 -0400
+
+    fix modal2
+
+commit e72deb823186bafde7c3c685af74c01fc29f9c43
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sat Jun 9 00:14:48 2018 -0400
+
+    fix modal
+
+commit 207827d057b4b0fa091d334e6c04e2b5df9113e6
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Sat Jun 9 00:00:48 2018 -0400
+
+    rearando editar usuario
+
+commit ed32958b200adb8057c442f2c964763ae2e0ba71
+Author: joseKB <kewinbarboza@gmail.com>
+Date:   Fri Jun 8 23:57:11 2018 -0400
+
+    prueba2
+
+commit ed069c11e108c8d8d526a2c37232d3b0b3f19e31
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Fri Jun 8 23:49:30 2018 -0400
+
+    agregando campos al modal usuarios editar
+
+commit 09757dd4d77cc2bf9620ba16b033d09167fa0261
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Fri Jun 8 23:16:05 2018 -0400
+
+    reparando modulo Usuarios
+
+commit d289e8eb5631a7d2c9aadd5d2d41778247a7e850
+Author: Carlos Eduardo Bolivar Barrios <carlos_ebb@outlook.com>
+Date:   Thu Jun 7 20:00:07 2018 -0400
+
+    frameword Laravel Base
